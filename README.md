@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Nguyen Huynh from Sterling<br><br>- 🔭 I’m working as student programmer<br>- 📚 I'm currently learning full stack web dev and to apply CS concepts I learnt to re-create popular tools such as SQLite, Web server, Bit Torrent File Downloader. <br>- ⚡ In my free time I code and read blogs about tech</p>
+<p align="left">I'm Nguyen Huynh from Sterling<br><br>- 🔭 I’m working as a full stack developer <br>- ⚡ In my free time I code and read blogs about tech</p>
 
 ###
 
