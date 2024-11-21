@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me <br>I am an aspiring software developer who is passionate about learning and building stuff. I am proficient in MERN stacks, Java and Python. I set a goal for myself: Become a better developer by programming every single day.</h3>
+<h3 align="left">👩‍💻  About Me <br>I am a professional full stack developer. I am proficient in MERN stacks, Java and Python, Angular and C#. I set a goal for myself: Become a better developer by programming every single day.</h3>
 
 ###
 
