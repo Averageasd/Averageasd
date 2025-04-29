@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**Averageasd/Averageasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects that use: C, Angular, Microsoft Sql Server, .NET, Powershell
@@ -45,6 +42,9 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<h3 align="left">🔥   My Stats :</h3>
+
 
 ![Averageasd's Stats](https://github-readme-stats.vercel.app/api?username=Averageasd&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <br>
