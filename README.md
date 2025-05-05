@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal projects that use: C, Angular, Microsoft Sql Server, .NET, Powershell
-- 🌱 I’m currently learning Low-level programming, Powershell scripting, Database design, Advanced backend development
+- 🌱 I’m currently learning Low-level programming, Powershell scripting, Database design, SQL Optimization, Advanced backend development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about programming
