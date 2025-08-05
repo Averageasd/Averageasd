@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal projects that use: C, Angular, Microsoft Sql Server, .NET, Powershell
-- 🌱 I’m currently learning Low-level programming, Powershell scripting, Database design, SQL Optimization, Advanced backend development
+- 🔭 I’m currently working on personal projects that use: Spring Boot, Java, AWS, Typescript. 
+- 🌱 I’m currently learning SQL Optimization, Advanced backend development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about programming
@@ -47,6 +47,21 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jest/jest-plain.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" />
+          
+          
+          
+          
+          
 </div>
 
 ###
