@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on personal projects that use: Spring Boot, Java, AWS, Typescript. 
-- 🌱 I’m currently learning SQL Optimization, Advanced backend development
+- 🔭 I’m currently working on personal projects that use: Spring Boot, Java, AWS, Typescript, Scala, Python, Spark, Docker. 
+- 🌱 I’m currently diving deeper into Spring Boot, Docker, AWS, Terraform and exploring data engineering with Spark, Scala and Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about programming
