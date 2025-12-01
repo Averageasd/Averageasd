@@ -82,6 +82,6 @@ Here are some ideas to get you started:
 <h3 align="left">🔥   My Stats :</h3>
 
 
-![Averageasd's Stats]([![Nguyen Huynh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averageasd)](https://github.com/Averageasd/github-readme-stats))
+![Averageasd's Stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Averageasd)](https://github.com/anuraghazra/github-readme-stats))
 <br>
 ![Averageasd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Averageasd&langs_count=20&theme=vue-dark&show_icons=true&hide_border=true)
